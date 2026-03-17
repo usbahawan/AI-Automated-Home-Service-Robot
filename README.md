@@ -85,8 +85,7 @@ Complex goals like "Deliver Tea to LivingRoom" are decomposed into subtasks:
 
 ## 🤝 Contributors
 
-*   **Muhammad Huzaifa** - Lead Contributor & AI Developer
+*   **Muhammad Huzaifa** - Contributor & AI Developer
 
 ---
 
-*Developed for the 4th Semester Artificial Intelligence Project.*
